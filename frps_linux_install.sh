@@ -1,5 +1,5 @@
 #!/bin/sh
-FRP_VERSION="0.39.1"
+FRP_VERSION="0.40.0"
 REPO="oliveryl2020/frps"
 WORK_PATH=$(dirname $(readlink -f $0))
 
